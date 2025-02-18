@@ -1,3 +1,3 @@
 # classdemo
 
-first commit
+second repository for demonstration
